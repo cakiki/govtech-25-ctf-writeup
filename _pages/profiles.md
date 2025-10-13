@@ -8,7 +8,7 @@ nav_order: 7
 
 profiles:
   - align: right
-    image: prof_pic.jpg
+    image: conor.png
     content: about_conor.md
     image_circular: true
     more_info: >
