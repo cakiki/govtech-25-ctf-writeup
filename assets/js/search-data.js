@@ -439,7 +439,7 @@ ninja.data = [{
               window.location.href = "/govtech-25-ctf-writeup/projects/8_project/";
             },},{id: "projects-lionroar",
           title: 'LionRoar',
-          description: "another project with an image 🎉",
+          description: "345 points",
           section: "Projects",handler: () => {
               window.location.href = "/govtech-25-ctf-writeup/projects/lionroar/";
             },},{id: "projects-warmup",
