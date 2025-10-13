@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/govtech-25-ctf-writeup/projects/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Materials for courses you taught. Replace this text with your description.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/govtech-25-ctf-writeup/teaching/";
+          },
         },{id: "nav-people",
           title: "people",
           description: "Team Team&#39;s Team Members",
