@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LionRoar
-description: another project with an image 🎉
+description: 345 points
 img: assets/img/6.jpg
 importance: 4
 category: "OSINT, LLMs"
