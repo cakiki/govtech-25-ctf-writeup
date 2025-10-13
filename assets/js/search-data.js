@@ -437,11 +437,11 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/govtech-25-ctf-writeup/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-lionroar",
+          title: 'LionRoar',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/govtech-25-ctf-writeup/projects/9_project/";
+              window.location.href = "/govtech-25-ctf-writeup/projects/lionroar/";
             },},{id: "projects-warmup",
           title: 'Warmup',
           description: "with background image",
