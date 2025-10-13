@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Challenges
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Challenge Writeups
+permalink: /writeups/
+description: Qualifying Round Challenges
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: ["Warmup", "Machine Learning & Data", "LLMs", "Deepfake Detection", "Web, LLMs", "Web, Machine Learning & Data", "OSINT, LLMs", "work", "fun"]
 horizontal: false
 ---
 
