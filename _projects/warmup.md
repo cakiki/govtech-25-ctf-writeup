@@ -7,17 +7,10 @@ importance: 1
 category: Warmup
 ---
 
-> Find the flag on Discord! 
-
-More text
-
-    ---
-    Find the flag on Discord!
-    ---
+> Find the flag on Discord!
 
 Some more text
 
----
+```markdown
 Find the flag on Discord!
----
-
+```
