@@ -9,26 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/govtech-25-ctf-writeup/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/govtech-25-ctf-writeup/blog/";
-          },
-        },{id: "nav-challenges",
+  },{id: "nav-challenges",
           title: "Challenges",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/govtech-25-ctf-writeup/projects/";
           },
-        },{id: "nav-people",
-          title: "people",
+        },{id: "nav-team",
+          title: "Team",
           description: "Team Team&#39;s Team Members",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/govtech-25-ctf-writeup/people/";
+            window.location.href = "/govtech-25-ctf-writeup/team/";
           },
         },{id: "post-a-post-with-plotly-js",
         
