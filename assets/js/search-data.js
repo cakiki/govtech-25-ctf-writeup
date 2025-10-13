@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/govtech-25-ctf-writeup/";
     },
-  },{id: "nav-challenges",
-          title: "Challenges",
-          description: "A growing collection of your cool projects.",
+  },{id: "nav-challenge-writeups",
+          title: "Challenge Writeups",
+          description: "Qualifying Round Challenges",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/govtech-25-ctf-writeup/projects/";
+            window.location.href = "/govtech-25-ctf-writeup/writeups/";
           },
         },{id: "nav-team",
           title: "Team",
