@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Challenge Writeups
+title: Writeups
 permalink: /writeups/
 description: Qualifying Round Challenges
 nav: true
