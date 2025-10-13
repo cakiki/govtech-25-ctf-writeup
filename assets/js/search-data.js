@@ -53,7 +53,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "members of the lab or group",
+          description: "Team Team&#39;s Team Members",
           section: "Navigation",
           handler: () => {
             window.location.href = "/govtech-25-ctf-writeup/people/";
