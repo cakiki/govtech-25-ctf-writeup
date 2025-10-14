@@ -6,9 +6,12 @@ importance: 3
 category: "Machine Learning & Data"
 ---
 
+> #### Challenge
 > Singapore's lamp posts are getting smarter. They don't just light the way â€” they watch over the pavements.
 >
 > Your next-gen chip has been selected for testing. Can your chip distinguish pedestrians from bicycles and PMDs (personal mobility devices)?
 >
 > Pass the test, and your chip will earn deployment on Singapore's smart lamp posts. Fail, and hazards roam free on pedestrian walkways.
 {: .block-tip }
+
+#### Solution
