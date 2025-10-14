@@ -3,7 +3,7 @@ layout: page
 title: Warmup
 description: with background image
 img: assets/img/12.jpg
-importance: 1
+importance: 3
 category: Warmup
 ---
 

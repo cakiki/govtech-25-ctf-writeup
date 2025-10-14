@@ -3,7 +3,7 @@ layout: page
 title: MNIST
 description: 200 points
 img:
-importance: 4
+importance: 3
 category: "Machine Learning & Data"
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Kopitalk
 description: 200 points
 img:
-importance: 2
+importance: 3
 category: "Machine Learning & Data"
 ---
 

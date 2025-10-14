@@ -3,7 +3,7 @@ layout: page
 title: Fool the FashionNet!
 description: 200 points
 importance: 3
-category: "Machine Learning & Data"
+category: "Web, LLMs"
 ---
 
 > Your greatest rival, FashionNET, has unveiled a state-of-the-art AI that "perfectly" organises wardrobes for millions-until someone left the model weights exposed on a public server. Now their classifier is laughably fragile: tiny, invisible tweaks can flip shirts into shoes, or trousers into dresses. As a trained AI hacker, craft a near-invisible perturbation, and prove you can outstyle their system. Steal the spotlight - and claim the flag.

@@ -3,7 +3,7 @@ layout: page
 title: Real or Fake
 description: 200 points
 img: assets/img/3.jpg
-importance: 2
+importance: 3
 category: "Deepfake Detection"
 ---
 
