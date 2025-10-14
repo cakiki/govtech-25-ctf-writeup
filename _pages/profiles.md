@@ -16,7 +16,7 @@ profiles:
     content: about_ken.md
     image_circular: true
   - align: right
-    image: prof_pic.jpg
+    image: bilal.png
     content: about_bilal.md
     image_circular: true
   - align: left
