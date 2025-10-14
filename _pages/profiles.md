@@ -13,7 +13,7 @@ profiles:
     image_circular: true
     more_info: CONOR
   - align: left
-    image: prof_pic.jpg
+    image: ken.png
     content: about_ken.md
     image_circular: true
     more_info: KENNYYYYYYY
