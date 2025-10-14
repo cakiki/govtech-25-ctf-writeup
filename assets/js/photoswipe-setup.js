@@ -1,5 +1,5 @@
-import PhotoSwipeLightbox from "https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/photoswipe-lightbox.esm.min.js";
-import PhotoSwipe from "https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/photoswipe.esm.min.js";
+import PhotoSwipeLightbox from "/govtech-25-ctf-writeup/assets/libs/photoswipe-lightbox/photoswipe-lightbox.esm.min.js";
+import PhotoSwipe from "/govtech-25-ctf-writeup/assets/libs/photoswipe/photoswipe.esm.min.js";
 const photoswipe = new PhotoSwipeLightbox({
   gallery: ".pswp-gallery",
   children: "a",
