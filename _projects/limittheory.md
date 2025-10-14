@@ -15,3 +15,4 @@ category: "Machine Learning & Data"
 {: .block-tip }
 
 #### Solution
+We can binary search the experiment endpoint with random combos until we find the max value that still lets us pass. These are then used in a polynomial regression model that passes the machine. When we get the production ingredient sets, we can then use that to find an optimal amount, set a safety margin, submit, then bob's your uncle.
