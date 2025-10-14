@@ -402,46 +402,46 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+          section: "News",},{id: "projects-fool-the-fashionnet",
+          title: 'Fool the FashionNet!',
+          description: "200 points",
           section: "Projects",handler: () => {
-              window.location.href = "/govtech-25-ctf-writeup/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/govtech-25-ctf-writeup/projects/fool-the-fashionnet/";
+            },},{id: "projects-kopitalk",
+          title: 'Kopitalk',
+          description: "200 points",
           section: "Projects",handler: () => {
-              window.location.href = "/govtech-25-ctf-writeup/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/govtech-25-ctf-writeup/projects/kopitalk/";
+            },},{id: "projects-limit-theory",
+          title: 'Limit Theory',
+          description: "452 points",
           section: "Projects",handler: () => {
-              window.location.href = "/govtech-25-ctf-writeup/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/govtech-25-ctf-writeup/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/govtech-25-ctf-writeup/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/govtech-25-ctf-writeup/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/govtech-25-ctf-writeup/projects/8_project/";
+              window.location.href = "/govtech-25-ctf-writeup/projects/limittheory/";
             },},{id: "projects-lionroar",
           title: 'LionRoar',
           description: "345 points",
           section: "Projects",handler: () => {
               window.location.href = "/govtech-25-ctf-writeup/projects/lionroar/";
+            },},{id: "projects-mlmpire",
+          title: 'MLMpire',
+          description: "392 points",
+          section: "Projects",handler: () => {
+              window.location.href = "/govtech-25-ctf-writeup/projects/mlmpire/";
+            },},{id: "projects-mnist",
+          title: 'MNIST',
+          description: "200 points",
+          section: "Projects",handler: () => {
+              window.location.href = "/govtech-25-ctf-writeup/projects/mnist/";
+            },},{id: "projects-real-or-fake",
+          title: 'Real or Fake',
+          description: "200 points",
+          section: "Projects",handler: () => {
+              window.location.href = "/govtech-25-ctf-writeup/projects/real-or-fake/";
+            },},{id: "projects-stridesafe",
+          title: 'StrideSafe',
+          description: "403 points",
+          section: "Projects",handler: () => {
+              window.location.href = "/govtech-25-ctf-writeup/projects/stridesafe/";
             },},{id: "projects-warmup",
           title: 'Warmup',
           description: "with background image",
