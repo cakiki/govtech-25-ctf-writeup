@@ -92,6 +92,6 @@ while stack:
         stack.append((n + 1, s + c))
 {% endhighlight %}
 
-{% include figure.liquid loading="eager" path="assets/img/mlm.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/mlm.png" zoomable=true class="img-fluid rounded z-depth-1" %}
 
 
