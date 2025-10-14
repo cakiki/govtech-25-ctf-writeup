@@ -406,6 +406,11 @@ ninja.data = [{
           title: 'Fool the FashionNet!',
           description: "200 points",
           section: "Projects",handler: () => {
+              window.location.href = "/govtech-25-ctf-writeup/projects/dont-chao-keng/";
+            },},{id: "projects-fool-the-fashionnet",
+          title: 'Fool the FashionNet!',
+          description: "200 points",
+          section: "Projects",handler: () => {
               window.location.href = "/govtech-25-ctf-writeup/projects/fool-the-fashionnet/";
             },},{id: "projects-kopitalk",
           title: 'Kopitalk',
@@ -442,6 +447,11 @@ ninja.data = [{
           description: "403 points",
           section: "Projects",handler: () => {
               window.location.href = "/govtech-25-ctf-writeup/projects/stridesafe/";
+            },},{id: "projects-fool-the-fashionnet",
+          title: 'Fool the FashionNet!',
+          description: "252 points",
+          section: "Projects",handler: () => {
+              window.location.href = "/govtech-25-ctf-writeup/projects/the-best-hedgehog/";
             },},{id: "projects-warmup",
           title: 'Warmup',
           description: "with background image",
