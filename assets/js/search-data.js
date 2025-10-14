@@ -402,7 +402,17 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-don-39-t-chao-keng",
+          section: "News",},{id: "projects-bring-your-own-guardrails",
+          title: 'Bring Your Own Guardrails',
+          description: "200 points",
+          section: "Projects",handler: () => {
+              window.location.href = "/govtech-25-ctf-writeup/projects/bring-your-own-guardrails/";
+            },},{id: "projects-co-pirate",
+          title: 'Co-Pirate',
+          description: "200 points",
+          section: "Projects",handler: () => {
+              window.location.href = "/govtech-25-ctf-writeup/projects/co-pirate/";
+            },},{id: "projects-don-39-t-chao-keng",
           title: 'Don&amp;#39;t Chao Keng!',
           description: "200 points",
           section: "Projects",handler: () => {
@@ -457,6 +467,11 @@ ninja.data = [{
           description: "1 point",
           section: "Projects",handler: () => {
               window.location.href = "/govtech-25-ctf-writeup/projects/warmup/";
+            },},{id: "projects-well-well-well",
+          title: 'Well Well Well',
+          description: "425 points",
+          section: "Projects",handler: () => {
+              window.location.href = "/govtech-25-ctf-writeup/projects/well-well-well/";
             },},{
         id: 'social-github',
         title: 'GitHub',
