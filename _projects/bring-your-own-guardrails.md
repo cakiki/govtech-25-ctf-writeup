@@ -15,3 +15,4 @@ category: "LLMs"
 {: .block-tip }
 
 #### Solution
+We used a hacky method for this one: figure out what the queries are, block efficiently. Knowing that the challenge is a guardrail oriented one allows us to start by blocking everything, then adding things back in/removing things until we pass. Thus, we are able to solve in 4 conditions.
