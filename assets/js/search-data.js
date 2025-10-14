@@ -454,7 +454,7 @@ ninja.data = [{
               window.location.href = "/govtech-25-ctf-writeup/projects/the-best-hedgehog/";
             },},{id: "projects-warmup",
           title: 'Warmup',
-          description: "with background image",
+          description: "1 point",
           section: "Projects",handler: () => {
               window.location.href = "/govtech-25-ctf-writeup/projects/warmup/";
             },},{
