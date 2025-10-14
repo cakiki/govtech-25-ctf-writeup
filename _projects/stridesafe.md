@@ -157,3 +157,5 @@ plt.title("white / black / checker = neither")
 plt.axis("off")
 plt.show()
 {% endhighlight %}
+
+{% include figure.liquid loading="eager" path="assets/img/qr.png" zoomable=true class="img-fluid rounded z-depth-1" %}
