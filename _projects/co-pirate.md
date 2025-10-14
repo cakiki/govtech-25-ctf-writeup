@@ -11,3 +11,4 @@ category: "LLMs"
 {: .block-tip }
 
 #### Solution
+We can enter some flag-related code in the web IDE (such as `std::cout << "The flag is " << ` and the copilot model will suggest the flag for us.
