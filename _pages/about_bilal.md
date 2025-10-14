@@ -1,3 +1,3 @@
 **BILAL**
 
-bio goes here
+Undergrad CompEng @ Damascus U Unemployed @ teamTEAM
