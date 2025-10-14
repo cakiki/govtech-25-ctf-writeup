@@ -7,14 +7,10 @@ subtitle: Writeup for the Govtech 25 AI/ML CTF
 profile:
   align: right
   image: team-team-logo.png
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: false
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
