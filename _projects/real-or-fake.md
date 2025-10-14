@@ -15,3 +15,4 @@ category: "Deepfake Detection"
 {: .block-tip }
 
 #### Solution
+Most images were obvious. things like impossible facial features, very blurred skin, impossible angles. Any uncertain images were easily confirmable with a google image search.
