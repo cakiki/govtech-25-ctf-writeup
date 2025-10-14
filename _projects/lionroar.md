@@ -7,15 +7,13 @@ importance: 4
 category: "OSINT, LLMs"
 ---
 
-```
-As Singapore celebrates **SG60**, a local AI startup launches LionRoar Chatbot, a prototype chatbot service to showcase the nation's SG60 celebration infomation.
+> As Singapore celebrates **SG60**, a local AI startup launches LionRoar Chatbot, a prototype chatbot service to showcase the nation's SG60 celebration infomation.
 
-But whispers suggest that the chatbot has been a little too talkative â€” casually dropping references to information across its online footprint.
+> But whispers suggest that the chatbot has been a little too talkative â€” casually dropping references to information across its online footprint.
 
-Your mission:
+> Your mission:
 
-- Interact with the AI chatbot,
-- Follow the digital trail it leaks,
-- Piece together its scattered trail,
-- And uncover the hidden flag that proves you've unraveled the secrets of LionRoar.
-```
+> - Interact with the AI chatbot,
+> - Follow the digital trail it leaks,
+> - Piece together its scattered trail,
+> - And uncover the hidden flag that proves you've unraveled the secrets of LionRoar.
