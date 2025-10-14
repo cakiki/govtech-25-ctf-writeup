@@ -20,7 +20,7 @@ profiles:
     content: about_bilal.md
     image_circular: true
   - align: left
-    image: prof_pic.jpg
+    image: chris.png
     content: about_chris.md
     image_circular: true
 ---
