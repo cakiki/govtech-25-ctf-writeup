@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fool the FashionNet!
+title: The best hedgehog!
 description: 252 points
 importance: 3
 category: "Web, Machine Learning & Data"

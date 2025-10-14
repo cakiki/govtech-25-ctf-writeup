@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fool the FashionNet!
+title: Don't Chao Keng!
 description: 200 points
 importance: 3
 category: "Web, LLMs"
