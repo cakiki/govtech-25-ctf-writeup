@@ -402,8 +402,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-fool-the-fashionnet",
-          title: 'Fool the FashionNet!',
+          section: "News",},{id: "projects-don-39-t-chao-keng",
+          title: 'Don&amp;#39;t Chao Keng!',
           description: "200 points",
           section: "Projects",handler: () => {
               window.location.href = "/govtech-25-ctf-writeup/projects/dont-chao-keng/";
@@ -447,8 +447,8 @@ ninja.data = [{
           description: "403 points",
           section: "Projects",handler: () => {
               window.location.href = "/govtech-25-ctf-writeup/projects/stridesafe/";
-            },},{id: "projects-fool-the-fashionnet",
-          title: 'Fool the FashionNet!',
+            },},{id: "projects-the-best-hedgehog",
+          title: 'The best hedgehog!',
           description: "252 points",
           section: "Projects",handler: () => {
               window.location.href = "/govtech-25-ctf-writeup/projects/the-best-hedgehog/";
