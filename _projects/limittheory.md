@@ -2,7 +2,6 @@
 layout: page
 title: Limit Theory
 description: 452 points
-img: assets/img/7.jpg
 importance: 3
 category: "Machine Learning & Data"
 ---

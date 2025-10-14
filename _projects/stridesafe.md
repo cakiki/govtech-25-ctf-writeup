@@ -2,7 +2,6 @@
 layout: page
 title: StrideSafe
 description: 403 points
-img:
 importance: 3
 category: "Machine Learning & Data"
 ---

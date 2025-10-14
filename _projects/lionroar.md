@@ -2,7 +2,6 @@
 layout: page
 title: LionRoar
 description: 345 points
-img: assets/img/6.jpg
 importance: 3
 category: "OSINT, LLMs"
 ---

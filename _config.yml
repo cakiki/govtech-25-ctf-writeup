@@ -7,7 +7,7 @@ first_name: Team
 middle_name: T.
 last_name: Team
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  If you're reading this you're too close.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Home to the finest writeups
 footer_text: >

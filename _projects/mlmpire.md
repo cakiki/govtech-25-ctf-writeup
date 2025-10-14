@@ -2,7 +2,6 @@
 layout: page
 title: MLMpire
 description: 392 points
-img:
 importance: 3
 category: "Machine Learning & Data"
 ---
