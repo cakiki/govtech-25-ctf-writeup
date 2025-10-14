@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Warmup
-description: with background image
+description: 1 point
 importance: 3
 category: Warmup
 ---
