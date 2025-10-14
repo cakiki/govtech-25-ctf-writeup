@@ -28,7 +28,6 @@ img[0, 0:8] = 255
 # s bits in positions 8..15: sigma has ones at 8 and 11 (relative to start 8)
 img[0, 8] = 255
 img[0, 11] = 255
-```
-
 path = "mnist_backdoor_trigger.png"
 Image.fromarray(img).save(path)
+```
