@@ -1,3 +1,3 @@
 **CHRISTOPHER AKIKI**
 
-bio goes here
+i don't know dude.
