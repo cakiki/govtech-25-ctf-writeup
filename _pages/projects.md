@@ -5,7 +5,7 @@ permalink: /writeups/
 description: Qualifying Round Challenges
 nav: true
 nav_order: 3
-display_categories: ["Warmup", "Machine Learning & Data", "LLMs", "Deepfake Detection", "Web, LLMs", "Web, Machine Learning & Data", "OSINT, LLMs", "work", "fun"]
+display_categories: ["Warmup", "Machine Learning & Data", "LLMs", "Deepfake Detection", "Web, LLMs", "Web, Machine Learning & Data", "OSINT, LLMs"]
 horizontal: false
 ---
 
