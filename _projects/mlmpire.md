@@ -13,7 +13,7 @@ category: "Machine Learning & Data"
 #### Solution
 We can use the [MASK] token to predict the next most probable tokens and run a depth-first search, branching whenever a token probability is greater than 0.3, to extract some strings the model was trained on.
 
-```python
+{% highlight python linenos %}
 import torch
 import json
 import torch.nn.functional as F
@@ -90,5 +90,8 @@ while stack:
     for tok in toks:
         c = wrapper.itos[tok.item()]
         stack.append((n + 1, s + c))
-```
+{% endhighlight %}
+
+{% include figure.liquid loading="eager" path="assets/img/mlm.png" class="img-fluid rounded z-depth-1" %}
+
 
