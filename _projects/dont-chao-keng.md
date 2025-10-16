@@ -14,8 +14,7 @@ category: "Web, LLMs"
 > Your Mission: Convince (or trick 😏) Doctor CK to approve your telemed screening and get that sweet, sweet MC!
 >
 > Good luck, botak. You're gonna need it.
-
-DISCLAIMER: This is a cybersecurity challenge for educational purposes. We DO NOT endorse actual chao keng or feigning sickness in real military service!
+> DISCLAIMER: This is a cybersecurity challenge for educational purposes. We DO NOT endorse actual chao keng or feigning sickness in real military service!
 {: .block-tip }
 
 #### Solution
