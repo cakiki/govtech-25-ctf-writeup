@@ -7,9 +7,15 @@ category: "Web, LLMs"
 ---
 
 > #### Challenge
-> Your greatest rival, FashionNET, has unveiled a state-of-the-art AI that "perfectly" organises wardrobes for millions-until someone left the model weights exposed on a public server. Now their classifier is laughably fragile: tiny, invisible tweaks can flip shirts into shoes, or trousers into dresses. As a trained AI hacker, craft a near-invisible perturbation, and prove you can outstyle their system. Steal the spotlight - and claim the flag.
+> Hey Recruit! Wah, someone partied too hard last night and now got book-in blues is it? Nehmind, your buddy just introduced you to Doctor CK, a telemed bot that can grant you that precious MC! After all, what's a BMT experience without at least one legendary chao keng attempt, right?
 >
-> Your mission: Craft a tiny delta.npy that flips FashionNET's AI model prediction, without changing how the image looks to humans. Respect the L-infinity and SSIM rules-stay stealthy, no wild makeovers! Submit to verify and claim the flag. Can you outsmart the AI (and look good doing it)? Bonus points for style, zero points for pixelated chaos.
+> There's just one problem... Doctor CK is notoriously cynical and super busy. He rejects almost EVERYONE who tries to get an MC from him. No matter what symptoms you claim, he'll find a reason to turn you away.
+>
+> Your Mission: Convince (or trick 😏) Doctor CK to approve your telemed screening and get that sweet, sweet MC!
+>
+> Good luck, botak. You're gonna need it.
+
+DISCLAIMER: This is a cybersecurity challenge for educational purposes. We DO NOT endorse actual chao keng or feigning sickness in real military service!
 {: .block-tip }
 
 #### Solution
